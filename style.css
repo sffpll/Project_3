@@ -1,0 +1,74 @@
+
+body {
+  width: 100%vw;
+}
+
+
+.container {
+width: 900px;
+height: 921px;
+margin: 150px;
+margin-left: auto;
+margin-right: auto;
+border: 4px solid black;
+display: block;
+}
+
+
+.image1 {
+width: 520px;
+height: 600px;
+}
+
+
+  
+.image2 {
+width: 404px;
+height: 600px;
+}
+
+.image3 {
+margin-right: 100px;
+display: block,;
+width: 400px;
+height: 500px;
+}
+
+.image4 {
+margin-right: 100px;
+display: block,;
+width: 450px;
+height: 600px;
+}
+
+.image5 {
+margin-right: 100px;
+display: block,;
+width: 404px;
+height: 600px;
+}
+
+.image6 {
+margin-right: 100px;
+display: block,;
+width: 404px;
+height: 600px;
+}
+
+.image7 {
+margin-right: 100px;
+display: block,;
+width: 404px;
+height: 600px;
+}
+
+
+  .descriptionClass {
+  font-family: 'Kosugi', sans-serif;
+  width: 50%;
+  }
+  
+  .titleClass {
+  font-size: 30px;
+  }
+  
